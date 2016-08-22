@@ -1,0 +1,5 @@
+<resources>
+	<string name = "app_name">TMB Notificaiton Sample - Android</string>
+	<string name = "token">Token</string>
+	<string name = "notification_message">Notification Message</string>
+</resources>

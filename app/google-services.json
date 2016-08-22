@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "112567115572",
+    "firebase_url": "https://tmb-notification-sample.firebaseio.com",
+    "project_id": "tmb-notification-sample",
+    "storage_bucket": "tmb-notification-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112567115572:android:2e638c3a2742795e",
+        "android_client_info": {
+          "package_name": "app.com.vcareall.tmbnotificaitonsample_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112567115572-uh6ldmeog06vhtb573g8s3uu6murg193.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBpY670lW2Slx2b7wTiGc3MX4W1iHpSc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
